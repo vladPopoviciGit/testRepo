@@ -1,0 +1,6 @@
+hello simmplu
+
+
+git status -- arata daca s-au facut modificari , nici o modificare prin git tool
+
+git add demoFile.txt sau git add *
